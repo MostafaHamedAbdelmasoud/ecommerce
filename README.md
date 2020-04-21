@@ -1,6 +1,6 @@
 
 
-### it's an ecommerce project which shows dummy products to sell using laravel, Vus.js and mysql.
+### it's an ecommerce project which shows dummy products to sell using laravel, Vue.js and mysql.
 
 ## home page
 ![](screen1.png)
